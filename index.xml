@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pseudorandom Neural firings of a Polymath</title>
-    <link>https://polymathalien.github.io/</link>
+    <link>http://polymathalien.github.io/</link>
     <description>Recent content on Pseudorandom Neural firings of a Polymath</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>polymathalien@protonmail.com (Polymath Alien)</managingEditor>
     <webMaster>polymathalien@protonmail.com (Polymath Alien)</webMaster>
     
-	<atom:link href="https://polymathalien.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://polymathalien.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
